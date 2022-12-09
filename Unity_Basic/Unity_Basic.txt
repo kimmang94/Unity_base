@@ -1,0 +1,1 @@
+À¯´ÏÆ¼ Component, Manager, Singleton 
